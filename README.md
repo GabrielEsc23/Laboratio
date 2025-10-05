@@ -1,4 +1,8 @@
+
+
 # Proyecto: Memes y GIFs con APIs públicas
+
+<img width="1014" alt="https://gabrielesc23.github.io/Laboratio/" />
 
 Este proyecto muestra cómo consumir *APIs públicas* en JavaScript para obtener y mostrar *memes e imágenes GIF animadas* en una página web.  
 Se utilizan las APIs de *Imgflip* (para memes) y *Giphy* (para GIFs) mediante la función fetch y el manejo asíncrono con async/await.
